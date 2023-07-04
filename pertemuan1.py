@@ -1,0 +1,1 @@
+print("i love anggi sandra cintaku")
